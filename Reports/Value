@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="11.301" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-03T07:12:09.936332900Z">
+<testcase classname="To Validate the Home Page Functions" name="To Validated Title of the page" time="11.035">
+<system-out><![CDATA[
+Then Validated the Title....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
